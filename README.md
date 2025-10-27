@@ -1,2 +1,0 @@
-# Developtur
-Uji coba
